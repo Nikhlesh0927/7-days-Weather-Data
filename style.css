@@ -1,0 +1,15 @@
+#weather{
+          text-align: center;
+          font-size: 30px;
+    }
+    #snd{
+          font-style: italic;
+          color: hotpink;
+          font-size: 20px;
+    }
+     h1{
+          text-align: center;
+          font-style: oblique;
+          color: lime;
+          background-color: indigo;
+      }
